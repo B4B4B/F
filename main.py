@@ -4,9 +4,9 @@ abc ='ABCDEFGHIJKLMNOPQRSTUVWXYZ_1234567890'
 abc1 ='ABCDEFGHIJKLMNOPQRSTUVWXYZ'
 import telebot
 from telebot import types
-bot_token ="5446689009:AAGrAM_3hpMb_Gehm8zguDtDFsGG5SgAiCc"
+bot_token ="1261410829:AAH5VAq1QFLdQbbjRVawyLfhJ7bTlxaBTgU"
 bot = telebot.TeleBot(bot_token)
-admin=[5244755240]
+admin=[5244755240،254264270]
 
 @bot.message_handler(commands=['start'])
 def start_message(message):
@@ -19,7 +19,7 @@ def start_message(message):
 ݪكَيُ اެتِحِقِقِ هَݪ اެنِتِ مِشِتِࢪكَ فِيُ اެݪبُۅتِ ❤️‍🔥
 ___________________________________
 
-اެنِتِ كَنِتِ ݪسُتِ مِشِتِࢪكَ ࢪاެسُݪ اެݪمِطَۅࢪ @E_4_1 ݪكَيُ يُفِعٰݪ ݪكَ اެݪاެشِتِࢪاެكَ بُمِقِاެبُݪ بُسُيُطَ جَډاެ ❤️‍🔥""", reply_to_message_id=(message.message_id))
+اެنِ كَنِتِ ݪسُتِ مِشِتِࢪكَ ࢪاެسُݪ اެݪمِطَۅࢪ @E_4_1 ݪكَيُ يُفِعٰݪ ݪكَ اެݪاެشِتِࢪاެكَ بُمِقِاެبُݪ بُسُيُطَ جَډاެ ❤️‍🔥""", reply_to_message_id=(message.message_id))
 
 @bot.message_handler(commands=['TXN','txn','Txn'])
 def hamo(message):
