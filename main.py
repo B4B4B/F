@@ -6,7 +6,7 @@ import telebot
 from telebot import types
 bot_token ="1261410829:AAH5VAq1QFLdQbbjRVawyLfhJ7bTlxaBTgU"
 bot = telebot.TeleBot(bot_token)
-admin=[5244755240 ، 254264270]
+admin=[5244755240,254264270]
 
 @bot.message_handler(commands=['start'])
 def start_message(message):
